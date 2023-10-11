@@ -17,11 +17,11 @@ namespace Tyuiu.FedorenkoKS.Sprint1.Task1.V14
             Console.WriteLine("* Спринт #1                                                               *");
             Console.WriteLine("* Тема: Базовые навыки работы в C#                                        *");
             Console.WriteLine("* Задание #1                                                              *");
-            Console.WriteLine("* Вариант #14                                                              *");
+            Console.WriteLine("* Вариант #14                                                             *");
             Console.WriteLine("* Выполнил Федоренко К.С. | ИСПб-23-1                                     *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
-            Console.WriteLine("* Написать консольную программу, которая вычисляет выражение 10 / (2 + 3) *");
+            Console.WriteLine("*Написать консольную програм мукоторая вычисляет          a*b/c+(a/(b+c)))*");
             Console.WriteLine("* и печатает результат на экране                                          *");
             Console.WriteLine("*                                                                         *");
             Console.WriteLine("***************************************************************************");
